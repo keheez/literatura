@@ -38,8 +38,7 @@ Sigue estos pasos para configurar y ejecutar la aplicación en tu entorno local:
 
 ## Uso
 
-Una vez que la aplicación esté en funcionamiento, puedes acceder a ella mediante `http://localhost:8080`. [Proporciona instrucciones adicionales sobre cómo interactuar con la aplicación, por ejemplo, rutas de la API, credenciales de prueba, etc.]
-
+Una vez que la aplicación esté en funcionamiento, puedes acceder a ella mediante `http://localhost:8080`.
 ## Pruebas
 
 Para ejecutar las pruebas integradas en el proyecto, utiliza el siguiente comando de Maven:
